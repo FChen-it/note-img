@@ -1,2 +1,2 @@
-# note-img
+# blog-img
 image
